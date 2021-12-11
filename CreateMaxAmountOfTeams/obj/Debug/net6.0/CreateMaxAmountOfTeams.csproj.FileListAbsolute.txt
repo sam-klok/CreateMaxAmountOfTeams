@@ -1,0 +1,15 @@
+C:\Users\SKlok\source\repos\CreateMaxAmountOfTeams\CreateMaxAmountOfTeams\bin\Debug\net6.0\CreateMaxAmountOfTeams.exe
+C:\Users\SKlok\source\repos\CreateMaxAmountOfTeams\CreateMaxAmountOfTeams\bin\Debug\net6.0\CreateMaxAmountOfTeams.deps.json
+C:\Users\SKlok\source\repos\CreateMaxAmountOfTeams\CreateMaxAmountOfTeams\bin\Debug\net6.0\CreateMaxAmountOfTeams.runtimeconfig.json
+C:\Users\SKlok\source\repos\CreateMaxAmountOfTeams\CreateMaxAmountOfTeams\bin\Debug\net6.0\CreateMaxAmountOfTeams.dll
+C:\Users\SKlok\source\repos\CreateMaxAmountOfTeams\CreateMaxAmountOfTeams\bin\Debug\net6.0\ref\CreateMaxAmountOfTeams.dll
+C:\Users\SKlok\source\repos\CreateMaxAmountOfTeams\CreateMaxAmountOfTeams\bin\Debug\net6.0\CreateMaxAmountOfTeams.pdb
+C:\Users\SKlok\source\repos\CreateMaxAmountOfTeams\CreateMaxAmountOfTeams\obj\Debug\net6.0\CreateMaxAmountOfTeams.csproj.AssemblyReference.cache
+C:\Users\SKlok\source\repos\CreateMaxAmountOfTeams\CreateMaxAmountOfTeams\obj\Debug\net6.0\CreateMaxAmountOfTeams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKlok\source\repos\CreateMaxAmountOfTeams\CreateMaxAmountOfTeams\obj\Debug\net6.0\CreateMaxAmountOfTeams.AssemblyInfoInputs.cache
+C:\Users\SKlok\source\repos\CreateMaxAmountOfTeams\CreateMaxAmountOfTeams\obj\Debug\net6.0\CreateMaxAmountOfTeams.AssemblyInfo.cs
+C:\Users\SKlok\source\repos\CreateMaxAmountOfTeams\CreateMaxAmountOfTeams\obj\Debug\net6.0\CreateMaxAmountOfTeams.csproj.CoreCompileInputs.cache
+C:\Users\SKlok\source\repos\CreateMaxAmountOfTeams\CreateMaxAmountOfTeams\obj\Debug\net6.0\CreateMaxAmountOfTeams.dll
+C:\Users\SKlok\source\repos\CreateMaxAmountOfTeams\CreateMaxAmountOfTeams\obj\Debug\net6.0\ref\CreateMaxAmountOfTeams.dll
+C:\Users\SKlok\source\repos\CreateMaxAmountOfTeams\CreateMaxAmountOfTeams\obj\Debug\net6.0\CreateMaxAmountOfTeams.pdb
+C:\Users\SKlok\source\repos\CreateMaxAmountOfTeams\CreateMaxAmountOfTeams\obj\Debug\net6.0\CreateMaxAmountOfTeams.genruntimeconfig.cache

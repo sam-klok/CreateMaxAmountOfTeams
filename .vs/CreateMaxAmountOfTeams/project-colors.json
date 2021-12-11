@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe5889b7-ef9c-43eb-8661-36660a3fe3f4": {
+      "ProjectGuid": "fe5889b7-ef9c-43eb-8661-36660a3fe3f4",
+      "DisplayName": "CreateMaxAmountOfTeams",
+      "ColorIndex": 0
+    },
+    "c4a1286a-c50c-4d8a-8d09-51e946ebfe55": {
+      "ProjectGuid": "c4a1286a-c50c-4d8a-8d09-51e946ebfe55",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -15,15 +15,39 @@ Console.WriteLine(countMaximumTeams(skill, teamSize, maxDiff));
 skill = new List<int> { 3, 4, 3, 1, 6 };
 teamSize = 3;
 maxDiff = 2;
-// result = 2
+// result = 1
 Console.WriteLine(countMaximumTeams(skill, teamSize, maxDiff));
 
 Console.WriteLine("press any key..");
 Console.ReadKey();
-// See https://aka.ms/new-console-template for more information
-
 
 static int countMaximumTeams(List<int> skill, int teamSize, int maxDiff)
+{
+    skill.Sort();
+
+    int i = 0;
+    int j = teamSize - 1;
+    int count = 0;
+
+    while (j < skill.Count)
+    {
+        if (skill[j] - skill[i] <= maxDiff)
+        {
+            count++;
+            i = j + 1;
+            j = i + 2;
+        }
+        else
+        {
+            i++;
+            j++;
+        }
+    }
+
+    return count;
+}
+
+static int countMaximumTeams2(List<int> skill, int teamSize, int maxDiff)
 {
     skill.Sort();
     skill.Reverse();

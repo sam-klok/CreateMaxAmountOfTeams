@@ -33,3 +33,12 @@ int teamSize: the number of developers to make up a team
 int maxDiff: the threshold value 
 
 Returns: int: the maximum number of teams that can be formed at one time 
+
+
+
+URLS with solutions:
+
+https://stackoverflow.com/questions/70319903/determine-the-maximum-number-of-teams-that-can-be-formed-based-on-team-size-skil
+https://leetcode.com/discuss/interview-question/1595526/Walmart-Hackerrank-Assesment-Question/1162256
+https://www.geeksforgeeks.org/maximum-number-of-teams-that-can-be-formed-with-given-persons/
+
